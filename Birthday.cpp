@@ -8,7 +8,7 @@ Birthday::Birthday(int d, int m, int y)
 {
         date = d;
         month = m;
-        year = y;//ctor
+        year = y; 
 };
 
 void Birthday::printDate()
