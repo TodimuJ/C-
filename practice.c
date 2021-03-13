@@ -4,7 +4,7 @@ using namespace std;
 
 void printSomething()
 {
-    cout << "Todimu is awesome!" << endl;
+    cout << "I am is awesome!" << endl;
 
 }
 
